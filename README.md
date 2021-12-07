@@ -1,2 +1,2 @@
-# banking-project-testcase-suit-v1
+# banking-project
 Test Case Suit on banking project
